@@ -10,6 +10,16 @@ Previously Tech Lead at BTG Pactual, leading the Java 6 → .NET 8 rewrite of a 
 
 ---
 
+## Highlights
+
+- Distributed systems architecture
+- Event-driven processing pipelines
+- High-performance backend engineering
+- PostgreSQL + EF Core
+- Kafka / RabbitMQ messaging
+- Cloud-native architecture
+- AI-ready financial assistant roadmap
+
 # Core Expertise
 
 - Distributed Systems
